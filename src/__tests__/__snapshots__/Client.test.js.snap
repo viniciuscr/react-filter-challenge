@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Client tests should render as expected 1`] = `"<div class=\\"shadow-sm h-100  mb-2 border bg-white rounded-sm \\"><div class=\\"client-box\\"><div class=\\"container-fluid\\"><h4>My Realty <small class=\\"text-muted\\">236244</small></h4><ul class=\\"producsts\\"><li><span class=\\"badge active\\">active</span> lead_management</li><li><span class=\\"badge canceled\\">canceled</span> dashboard</li></ul></div><button class=\\"bt-foward\\"><span class=\\"icon-rl-forward\\"></span></button></div></div>"`;

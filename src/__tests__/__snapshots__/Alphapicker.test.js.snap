@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should call pickFunc with empty string and unselect any picked when clicked on All 1`] = `"<nav aria-label=\\"Alphapicker\\"><ul class=\\"pagination\\"><li class=\\"page-item\\"><button class=\\"page-link\\">All</button></li><li class=\\"page-item\\"><button class=\\"page-link \\">b</button></li><li class=\\"page-item\\"><button class=\\"page-link \\">3</button></li><li class=\\"page-item\\"><button class=\\"page-link \\">bar</button></li></ul></nav>"`;
+
+exports[`should render as expected 1`] = `"<nav aria-label=\\"Alphapicker\\"><ul class=\\"pagination\\"><li class=\\"page-item\\"><button class=\\"page-link\\">All</button></li><li class=\\"page-item\\"><button class=\\"page-link \\">b</button></li><li class=\\"page-item\\"><button class=\\"page-link \\">3</button></li><li class=\\"page-item\\"><button class=\\"page-link \\">bar</button></li></ul></nav>"`;

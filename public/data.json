@@ -1,0 +1,130 @@
+{
+  "results": [
+    {
+      "client": {
+        "name": "My Realty",
+        "id": "236244",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "active"
+          },
+          {
+            "product_handle": "dashboard",
+            "state": "canceled"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Palm Beach",
+        "id": "159490",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "active"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Ricks Gym",
+        "id": "242775",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "canceled"
+          },
+          {
+            "product_handle": "dashboard",
+            "state": "active"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Tehsin",
+        "id": "180012",
+        "products": [
+          
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Wong Dealership",
+        "id": "142687",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "active"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Prime Dealership",
+        "id": "142586",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "active"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Pet Shop",
+        "id": "148541",
+        "products": [
+          {
+            "product_handle": "dashboard",
+            "state": "canceled"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "ReachLocal",
+        "gmaid": "6252",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "active"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "SweetIQ",
+        "gmaid": "1999",
+        "products": [
+          {
+            "product_handle": "dashboard",
+            "state": "active"
+          }
+        ]
+      }
+    },
+    {
+      "client": {
+        "name": "Ceramics Inc",
+        "gmaid": "99292",
+        "products": [
+          {
+            "product_handle": "lead_management",
+            "state": "active"
+          }
+        ]
+      }
+    }
+  ],
+  "total_count": 10
+}

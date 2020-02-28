@@ -1,0 +1,17 @@
+@import "../../colors.scss";
+
+.search{
+  margin-bottom: 1rem;
+}
+
+.input-group-text {
+  background-color: #fff !important;
+  border-left: 0;
+}
+
+.input-group {
+  & input[type="search"] {
+    border-right: 0 !important;
+  }
+}
+

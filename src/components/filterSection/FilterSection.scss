@@ -1,0 +1,41 @@
+@import "../../colors.scss";
+
+.bg-gray {
+  background-color: $bright-gray;
+}
+
+.Collapsible {
+  border-top: 1px black solid;
+}
+
+.Collapsible__contentInner > ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Collapsible__contentInner li {
+  margin-bottom: 0.5rem;
+}
+
+.Collapsible__contentInner input[type="checkbox"] {
+  margin-left: 0.5rem;
+}
+.Collapsible__contentInner label {
+  width: 92%;
+  margin: 0;
+  padding-left: 0.5rem;
+  font-weight: 600;
+}
+.Collapsible__trigger div {
+  cursor: pointer;
+}
+
+/* Collapsible already has a logic for when it is opened or closed.
+  We can delegate to it the control over the chevron
+*/
+.is-closed .icon-rl-chevron:before {
+  content: "\e91d";
+}
+.is-open .icon-rl-chevron:before {
+  content: "\e91e";
+}
