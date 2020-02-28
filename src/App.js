@@ -137,7 +137,7 @@ class App extends Component {
 
   componentDidMount() {
     //NOTE: data.json was moved to /public so we could emulate an api call
-    fetch("http://localhost:3000/data.json").then(response =>
+    fetch("./data.json").then(response =>
       response.json().then(json => {
         //NOTE: some clients have an "gmaid" instead of an "id" property.
         //Maybe it a good idea to spend some time here normalizing it before doing anything.
