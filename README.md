@@ -2,11 +2,12 @@
 This was a old challenge for a gig.
 I have migrated it from a old private repo and I problably wouldn't do it the same way today, but I like to keep it unchanged as a history of my progress.
 
+Deployed using zeit at: https://react-filter-challenge.now.sh
+
 ## Task
 Create a interface as close as possible from the image above based on a minimum project setup predefined beforehand:
 
 ![](mock.png)
-
 
 ## Features
 1. Filter by client name using search field
